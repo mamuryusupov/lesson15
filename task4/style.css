@@ -1,8 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+
 .image {
     display: block;
     margin: 0 auto;
     max-width: 100%;
-    position: relative;
 }
 
 .image-button {
