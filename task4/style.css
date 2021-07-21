@@ -2,6 +2,10 @@
     box-sizing: border-box;
 }
 
+.image-container {
+    position: relative;
+}
+
 .image {
     display: block;
     margin: 0 auto;
@@ -13,7 +17,7 @@
     text-align: center;
     line-height: 50px;
     position: absolute;
-    top: calc(50% - 250px);
+    top: calc(50% - 25px);
     left: calc(50% - 100px);
 }
 
